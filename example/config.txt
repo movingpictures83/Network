@@ -1,0 +1,2 @@
+Prefix plugins/Network/example
+Plugin Network inputfile parameters.txt outputfile network
